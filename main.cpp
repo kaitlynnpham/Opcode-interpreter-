@@ -1,5 +1,5 @@
 /*
-* Name: Kaitlynn Pham , 5005989243, cs202HW1
+* Name: Kaitlynn Pham 
 * Description: The program will build an assember and
 interpreter by reading assembly language from an input file 
 and storing the labels and instructions into memory. It will then
